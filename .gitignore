@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Keep the data folder, but do not commit the dataset itself
+data/*.csv
+
+# Generated cleaned data
+outputs/
