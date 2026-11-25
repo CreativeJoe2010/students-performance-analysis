@@ -57,8 +57,6 @@ The notebook expects a CSV file named `students_performance.csv` with the column
 
 The file which I downloaded from Kaggle was made by Aman Chauhan and can also be downloaded from this link [Students Performance Dataset](https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams)
 
-If you obtained the commonly used *Students Performance in Exams* dataset from Kaggle, add the downloaded CSV to the `data/` folder. The dataset is not bundled in this repository.
-
 ## Notes and limitations
 
 - The grade boundaries and pass mark are defined in the notebook for this analysis; they should not be assumed to represent an official grading system.
